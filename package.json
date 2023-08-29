@@ -1,0 +1,25 @@
+{
+  "name": "shadowcipher",
+  "version": "1.0.0",
+  "description": "Easy to use encryption and decryption function for securing sensitive data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FightlolYes/ShadowCipher.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "crypto",
+    "security"
+  ],
+  "author": "Yash Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FightlolYes/ShadowCipher/issues"
+  },
+  "homepage": "https://github.com/FightlolYes/ShadowCipher#readme"
+}
